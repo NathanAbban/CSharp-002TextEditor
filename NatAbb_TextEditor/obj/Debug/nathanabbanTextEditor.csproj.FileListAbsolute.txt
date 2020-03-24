@@ -1,0 +1,9 @@
+C:\Users\Angel2man\Documents\CShare Projects\nathanabbanTextEditor\bin\Debug\nathanabbanTextEditor.exe.config
+C:\Users\Angel2man\Documents\CShare Projects\nathanabbanTextEditor\bin\Debug\nathanabbanTextEditor.exe
+C:\Users\Angel2man\Documents\CShare Projects\nathanabbanTextEditor\bin\Debug\nathanabbanTextEditor.pdb
+C:\Users\Angel2man\Documents\CShare Projects\nathanabbanTextEditor\obj\Debug\nathanabbanTextEditor.Properties.Resources.resources
+C:\Users\Angel2man\Documents\CShare Projects\nathanabbanTextEditor\obj\Debug\nathanabbanTextEditor.csproj.GenerateResource.cache
+C:\Users\Angel2man\Documents\CShare Projects\nathanabbanTextEditor\obj\Debug\nathanabbanTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Angel2man\Documents\CShare Projects\nathanabbanTextEditor\obj\Debug\nathanabbanTextEditor.exe
+C:\Users\Angel2man\Documents\CShare Projects\nathanabbanTextEditor\obj\Debug\nathanabbanTextEditor.pdb
+C:\Users\Angel2man\Documents\CShare Projects\nathanabbanTextEditor\obj\Debug\nathanabbanTextEditor.NathanAbbanTextEditor.resources
